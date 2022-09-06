@@ -1,3 +1,6 @@
+Google IT Automation with Python Specialization
+
+
 This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
 
 Knowing how to write code to solve problems and automate solutions is a crucial skill for anybody in IT. Python, in particular, is now the most in-demand programming language by employers.
@@ -11,9 +14,14 @@ We recommend that you have Python installed on your machine. For some courses, y
 
 Courses in this Professional Certificate
 
-#COURSE 1: Google Crash Course on Python
-#COURSE 2: Google Using Python to Interact with the Operating System
-#COURSE 3: Google Introduction to Git and GitHub
-#COURSE 4: Troubleshooting and Debugging Techniques
-#COURSE 5: Configuration Management and the Cloud
-#COURSE 6: Automating Real-World Tasks with Python
+COURSE 1: Google Crash Course on Python
+
+COURSE 2: Google Using Python to Interact with the Operating System
+
+COURSE 3: Google Introduction to Git and GitHub
+
+COURSE 4: Troubleshooting and Debugging Techniques
+
+COURSE 5: Configuration Management and the Cloud
+
+COURSE 6: Automating Real-World Tasks with Python
