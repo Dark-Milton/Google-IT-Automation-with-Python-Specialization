@@ -1,4 +1,4 @@
-Google IT Automation with Python Specialization
+# Google IT Automation with Python Specialization
 
 
 This beginner-level, six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help you advance your career.
@@ -12,7 +12,7 @@ This certificate can be completed in about 6 months and is designed to prepare y
 We recommend that you have Python installed on your machine. For some courses, you’ll need a computer where you can install Git or ask your administrator to install it for you.
 
 
-Courses in this Professional Certificate
+# Courses in this Professional Certificate
 
 COURSE 1: Google Crash Course on Python
 
