@@ -1,5 +1,7 @@
 # Google Crash Course on Python
 
+Course 1 of 6 in the Google IT Automation with Python Specialization
+
 
 # About this Course
 
